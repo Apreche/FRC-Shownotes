@@ -1,0 +1,19 @@
+The official Git-powered shownotes of frontrowcrew.com
+
+frontrowcrew.com is the home page for the GeekNights podcast. A late-night podcast for geeks that has been running since 2005. This repository holds the shownotes which appear on frontrowcrew.com for each episode.
+
+If you would like to write shownotes that will appear on the site, follow these steps.
+
+1. Find an episode of GeekNights you want to take notes on.
+
+2. ook at its URL and which night it belongs to. Here is an example episode.
+
+http://frontrowcrew.com/geeknights/20120515/zendo/
+
+3. The night of the episode is the directory, in this case tuesday. The slug of the episode is the filename.
+
+/podcasts/tuesday/zendo.html
+
+4. Fork this repository and submit a pull request with your shownote modifications.
+
+5. That's it! If your pull request is merged your notes will appear on frontrowcrew.com almost immediately.
